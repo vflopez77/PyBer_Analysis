@@ -14,4 +14,10 @@ Rural areas had the fewest rides and total fares, but higher fares per ride and 
 
 ## PyBer Fares by City Type Over Time:
 <img src=/analysis/PyBer_fare_summary.png></img><br>
+In the January-April 2019 time frame in this graph, there are roughly similar proportions of total fares over time for the three city types.<br>
 
+### Pyber Summary
+Given the differential in the average fares and fares per driver between the Urban, Suburban, and Rural city types, the following is recommended to increase revenue:<br>
+- Increase the number of drivers Rural drivers since they command higher fares than urban or suburban drivers.<br>
+- Increase the number of Suburban drivers since they make over twice the fares per driver than urban drivers.<br>
+- Keep the Urban driving pool the same as it is providing the majority of the revenue, but at a lower rate per driver.<br>
