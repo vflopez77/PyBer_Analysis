@@ -7,4 +7,4 @@ Given city ride data for PyBer, we will compare data from different city types t
 - A line graph illustrating the fares for each city type over time.
 
 ## PyBer Data Summary:
-<img src=/Analysis/Pyber_Summary_Data.png></img><br>
+<img src=/analysis/Pyber_Summary_Data.png></img><br>
