@@ -9,7 +9,9 @@ Given city ride data for PyBer, we will compare data from different city types t
 ## PyBer Data Summary:
 <img src=/analysis/Pyber_Summary_Data.png></img><br>
 Urban areas had the most rides and the highest total fares.<br>
-Suburban areas had fewer rides, but higher average fares and fares per driver.<br>
+Suburban areas had fewer rides, but higher average fares and higher fares per driver.<br>
 Rural areas had the fewest rides and total fares, but higher fares per ride and much higher fares per driver.<br>
 
+## PyBer Fares by City Type Over Time:
+<img src=/analysis/PyBer_fare_summary.png></img><br>
 
